@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgba(33, 108, 200, 0.726);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    color: white;
+    background-color:rgba(1, 1, 1, 0.81) ;
+    height: 420px;
+    width: 480px;
+    font-weight: bold;
+    border-style: solid;
+    border: 0px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*padding-bottom: 90px;*/
+    margin: 0 auto;
+    /*margin-top: 40px;
+    margin-left: 450px;*/
+    padding-left: 0px;
+    
+}
+label{
+    padding-left: 10px;
+   }
+h2{
+    /*padding-top: 65px;*/
+    text-align: center;
+    
+}
+input{
+    height: 25px;
+    width: 195px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px;
+    padding-left: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+pre{
+    font-weight: 400;
+    padding-top: 3px;     
+}
+#email{
+       width: 415px;
+       border-style: solid;
+       border-color: white;
+       border-radius: 25px;
+       padding-left: 15px;
+
+}
+textarea{
+    height: 75px;
+    width: 418px;
+    border-radius: 20px;
+    padding-top: 8px;
+    padding-left: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgba(255, 0, 132, 0.782);
+    height: 40px;
+    width: 100px;
+    border: 0px;
+    border-radius: 20px;
+    /*margin-left: 163px;
+    margin-top: 45px;
+    padding-bottom: 3px;*/
+    display: block;
+    margin: 10px auto;
+}
+
